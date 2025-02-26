@@ -9,15 +9,17 @@ An iOS application designed to enhance location safety and strengthen interconne
 ## Key Features
 
 ### User Authentication
-![Authentication Screenshot](images/login.png)
+<img src="images/login.png" alt="Authentication Screenshot" width="400"/>
 
 The application features a secure, university-exclusive authentication system that ensures all users are verified students, creating a trusted environment for socialisation and planning.
 
 ### Interactive Venue Polling
-![Venue Voting Interface](images/voting_page.png)
+<img src="images/voting_page.png" alt="Venue Voting Interface" width="400"/>
+
 *Users can vote on venues and see real-time updates of where friends are planning to go*
 
-![Poll Results](images/poll_results.png)
+<img src="images/poll_results.png" alt="Poll Results" width="400"/>
+
 *Interactive poll results show which venues are most popular among friends*
 
 Each morning, users receive an interactive poll asking, "What's the move for tonight?" allowing them to indicate their plans for events or venues. This feature enables:
@@ -27,7 +29,8 @@ Each morning, users receive an interactive poll asking, "What's the move for ton
 - Comment system for discussing venue choices
 
 ### Real-time Location Tracking
-![Location Map](images/map.png)
+<img src="images/map.png" alt="Location Map" width="400"/>
+
 *Live map showing friends' locations and nearby venues*
 
 The application leverages CoreLocation and MapKit to provide precise, real-time location tracking within friend groups:
@@ -37,10 +40,12 @@ The application leverages CoreLocation and MapKit to provide precise, real-time 
 - Battery-efficient implementation with intelligent update intervals
 
 ### Friend Management System
-![Friends List](images/friends.png)
+<img src="images/friends.png" alt="Friends List" width="400"/>
+
 *Manage your friends and create groups for specific events*
 
-![Friend's Acitivies](images/friends_activities.png)
+<img src="images/friends_activities.png" alt="Friend's Activities" width="400"/>
+
 *Stay updated with where your friends are going*
 
 Users can create temporary "friend groups" for specific nights out:
