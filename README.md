@@ -44,6 +44,10 @@ The application leverages CoreLocation and MapKit to provide precise, real-time 
 
 *Manage your friends and create groups for specific events*
 
+<img src="images/add_friends.png" alt="Add Friends Interface" width="400"/>
+
+*Interface for finding and adding new friends to your network*
+
 <img src="images/friends_activities.png" alt="Friend's Activities" width="400"/>
 
 *Stay updated with where your friends are going*
